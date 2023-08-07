@@ -59,6 +59,6 @@ Button = Page1:CreateButton("Wild Animal", "Instant Art", function()
 
 end)
 
-Button = Page1:CreateButton("Copy Discord Invite For Buy Plus Version", "Copy zto Clipboard", function()
-setcljpboard("https://discord.gg/aunMxN28q")
+Button = Page2:CreateButton("Copy Discord Invite For Buy Plus Version", "Copy zto Clipboard", function()
+setclipboard("https://discord.gg/aunMxN28q")
 end)
